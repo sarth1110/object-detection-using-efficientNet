@@ -1,7 +1,7 @@
 # Object-detection-using-efficientNet
 Using transfer learning on pre trained EfficientNet model for detection of objects such as human face, cat, dog etc.
 
-Dataset link: https://drive.google.com/file/d/1j7vsYyVogzMx10pLSWMxTirNv_SJkza-/view?usp=sharing
+Dataset link: https://drive.google.com/drive/folders/14EOWVOnf5I99uOAt-ZhXRvc7CO8Rx1KK?usp=sharing
 
 ### 1. Train the Machine Learning model
 ``` python training.py ```
